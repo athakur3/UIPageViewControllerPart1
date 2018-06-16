@@ -102,9 +102,6 @@ struct GlobalSetup {
         return ["MyFirstViewController", "MySecondViewController", "MyThirdViewController", "MyFourthViewController", "MyFifthViewController", "MySixthViewController"].map({getViewController(id: $0)!})
     }()
     
-    static var backContentController = {
-        return UIViewController()
-    }()
 }
 ```
 
