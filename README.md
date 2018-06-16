@@ -29,7 +29,7 @@ Repository Specification
 
 **How to Use**
 
-The document has one useful content in Main storyboard file and in MainPageViewController.swift file.  
+The document has useful content in Main storyboard file and in MainPageViewController.swift file.  
 Below is the implementation that is used to provide content to PageViewController.  
 
 ---
