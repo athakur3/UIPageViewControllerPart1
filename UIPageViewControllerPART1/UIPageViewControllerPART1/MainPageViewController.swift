@@ -26,7 +26,8 @@ class MainPageViewController: UIPageViewController {
 }
 
 /**** ****                                  **** ****
- *  If setting is Min spine and double sided false
+ *  If spine location setting is Min or Max and double sided property is set to false
+ *  The above mentioned properties can be setup from Interface Builder. UIPageViewController object's Attributes inspector
  **** ****                                 **** ****/
 extension MainPageViewController {
     
