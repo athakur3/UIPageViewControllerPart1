@@ -14,16 +14,17 @@ Repository Specification
 ---
 
 **Details about UIPageViewController for this Part**   
-* Transition Style is Page Curl
-* Double sided propery is false
-* Delegate and Data Source are nil
+* Transition Style is Page Curl (Interface builder)
+* Double sided propery is false (Interface builder)
+* Spine location is to be min or max (Interface builder)
+* Delegate and Data Source are nil 
 * Gesture based navigation is not included
 * Total of 6 View Controllers for this example
 
 **How to Use**
 
 The document has one useful content in Main storyboard file and in MainPageViewController.swift file.  
-Below is the setViewControllers property that is used to provide content to PageViewController.  
+Below is the implementation that is used to provide content to PageViewController.  
 
 ```
 import UIKit
