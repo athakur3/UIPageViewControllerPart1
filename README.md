@@ -1,4 +1,7 @@
-EVERYTHING ABOUT PAGEVIEWCONTROLLERS. PART 1
+EVERYTHING ABOUT PAGEVIEWCONTROLLERS.
+====
+
+PART 1
 ===
 
 ---
@@ -21,10 +24,14 @@ Repository Specification
 * Gesture based navigation is not included
 * Total of 6 View Controllers for this example
 
+
+
 **How to Use**
 
 The document has one useful content in Main storyboard file and in MainPageViewController.swift file.  
 Below is the implementation that is used to provide content to PageViewController.  
+
+---
 
 ```
 import UIKit
@@ -107,5 +114,5 @@ Note
 
 The implementation and content providing using dataSource will be implemented in future part of this series.
 
-
+---
 
